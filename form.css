@@ -1,0 +1,18 @@
+[type="text"]
+{
+    background-color: red;
+    color:green;
+}
+[type="password"]
+{
+    background-color: yellow;
+    color: white;
+}
+button[type="reset"]
+{
+    background-color: aqua;
+}
+input[type="reset"]
+{
+    background-color: rgba(223, 14, 136, 0.541);
+}
